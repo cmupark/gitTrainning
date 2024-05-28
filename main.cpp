@@ -7,13 +7,13 @@ int main(){
         TODO
         
         inputMaze() :           input initial maze. the maximum size of the maze is 100x100
-                                0 is the available section to go. 1 is the wall that you can't go.
+                                O is the available section to go. # is the wall that you can't go.
         
         findShortestPath() :    find the shortest path by bfs algorithm.
 
         printMaze():            print the shortest path. you must categorize the shotest path from others.
     */
-   
+
 	//inputMaze();
     //findShortestPath();
     //printMaze();
